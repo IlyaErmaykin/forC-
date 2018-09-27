@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountHeight", "CountHeight\CountHeight.vcxproj", "{D5C6CD40-F620-485D-A096-9B6E16269E92}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AboutDirectives", "AboutDirectives\AboutDirectives.vcxproj", "{E7DEBB94-2C0C-4E4C-90E2-C88CF82368F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{D5C6CD40-F620-485D-A096-9B6E16269E92}.Debug|Win32.Build.0 = Debug|Win32
 		{D5C6CD40-F620-485D-A096-9B6E16269E92}.Release|Win32.ActiveCfg = Release|Win32
 		{D5C6CD40-F620-485D-A096-9B6E16269E92}.Release|Win32.Build.0 = Release|Win32
+		{E7DEBB94-2C0C-4E4C-90E2-C88CF82368F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7DEBB94-2C0C-4E4C-90E2-C88CF82368F6}.Debug|Win32.Build.0 = Debug|Win32
+		{E7DEBB94-2C0C-4E4C-90E2-C88CF82368F6}.Release|Win32.ActiveCfg = Release|Win32
+		{E7DEBB94-2C0C-4E4C-90E2-C88CF82368F6}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
